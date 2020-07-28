@@ -33,7 +33,7 @@ namespace PharmacyApp.PageObjects
         }
 
         /// <summary>
-        /// Method WAITS UNTIL logIn page appears
+        /// Method WAITS UNTIL logIn page appears (commit)
         /// </summary>
         public void WaitUntilHomePageAppears()
         {
