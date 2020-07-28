@@ -38,7 +38,7 @@ namespace PharmacyApp.PageObjects
         public void WaitUntilHomePageAppears()
         {
             commonMethods.WaitForElementIsPresent(By.XPath(XpathLogOutLink));
-            LogUtil.WriteDebug("Waiting for Home page ");
+            LogUtil.WriteDebug("Waiting till Home page open");
         }
 
         /// <summary>
