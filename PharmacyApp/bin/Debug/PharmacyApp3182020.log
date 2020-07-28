@@ -1,0 +1,145 @@
+[DEBUG] 2020-03-18 11:24:52 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 11:25:07 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 11:25:07 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 11:25:07 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 11:25:07 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-18 11:25:07 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 11:25:38 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 11:25:38 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 11:25:38 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-18 11:26:04 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-18 11:26:24 - PharmacyApp.CommonLip.LogUtil Count of rows in the Manager tabel is=1
+[DEBUG] 2020-03-18 11:27:12 - PharmacyApp.CommonLip.LogUtil Count of rows in the Manager tabel is=2
+[DEBUG] 2020-03-18 11:27:35 - PharmacyApp.CommonLip.LogUtil Count of rows in the Manager tabel is=2
+[DEBUG] 2020-03-18 11:28:25 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 11:28:50 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 11:28:56 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 11:28:56 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 11:28:56 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 11:28:57 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-18 11:28:57 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 11:43:23 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 11:43:30 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 11:43:30 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 11:43:30 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 11:43:30 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-18 11:43:30 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 11:43:56 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 11:43:56 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 11:43:56 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-18 11:44:20 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-18 11:44:39 - PharmacyApp.CommonLip.LogUtil Count of rows in the Manager tabel is=4
+[DEBUG] 2020-03-18 11:44:43 - PharmacyApp.CommonLip.LogUtil Count of managers =4
+[DEBUG] 2020-03-18 11:45:03 - PharmacyApp.CommonLip.LogUtil Count of rows in the Manager tabel is=5
+[DEBUG] 2020-03-18 11:45:04 - PharmacyApp.CommonLip.LogUtil Count of managers =5
+[DEBUG] 2020-03-18 11:45:18 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:06:51 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 12:06:59 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:06:59 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:06:59 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:06:59 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-18 12:06:59 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:07:31 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:07:31 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 12:07:32 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-18 12:07:57 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-18 12:10:52 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:16:33 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 12:16:40 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:16:40 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:16:40 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:16:52 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:@gmail.com
+[DEBUG] 2020-03-18 12:16:52 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:16:53 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:16:53 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:16:53 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:16:59 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:16:59 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:16:59 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:17:02 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:test@gmail.
+[DEBUG] 2020-03-18 12:17:02 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:17:02 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:17:02 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:17:02 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:17:08 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:17:08 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:17:08 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:17:11 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:test@gmailcom
+[DEBUG] 2020-03-18 12:17:11 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:17:11 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:17:11 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:17:11 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:17:17 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:17:17 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:17:17 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:17:18 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:testgmail.com
+[DEBUG] 2020-03-18 12:17:18 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:17:18 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:17:18 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:17:18 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:24:50 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 12:24:56 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:24:56 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:24:56 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:24:56 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:24:56 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:24:56 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:24:56 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:25:02 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:25:02 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:25:02 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:25:02 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:@gmail.com
+[DEBUG] 2020-03-18 12:25:02 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:25:03 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:25:03 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:25:03 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:test@gmail.
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:25:09 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:25:15 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:25:15 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:25:15 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:25:15 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:test@gmailcom
+[DEBUG] 2020-03-18 12:25:15 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:25:16 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:25:16 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:25:16 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:testgmail.com
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:25:22 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:25:28 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:25:28 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:25:28 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:25:28 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-18 12:25:28 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:pass
+[DEBUG] 2020-03-18 12:25:29 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:25:29 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of incorrect creds
+[DEBUG] 2020-03-18 12:25:29 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:25:35 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:25:35 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:25:35 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:25:35 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-18 12:25:35 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:26:00 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:26:00 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 12:26:00 - PharmacyApp.CommonLip.LogUtil Getting text about success login
+[DEBUG] 2020-03-18 12:26:00 - PharmacyApp.CommonLip.LogUtil Check if element present
+[DEBUG] 2020-03-18 12:26:00 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 12:31:25 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 12:31:31 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 12:31:31 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-18 12:31:31 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-18 12:31:31 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-18 12:31:31 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 12:31:31 - PharmacyApp.CommonLip.LogUtil Getting text from warning message of Email field
+[DEBUG] 2020-03-18 12:31:32 - PharmacyApp.CommonLip.LogUtil Close Chrome browser

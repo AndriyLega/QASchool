@@ -1,0 +1,67 @@
+[DEBUG] 2020-03-30 17:34:05 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-30 17:34:18 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-30 17:34:19 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-30 17:34:19 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-30 17:34:40 - PharmacyApp.CommonLip.LogUtil Please find more information on this screen: 2020-03-30-05-34-39.jpeg
+[DEBUG] 2020-03-30 17:34:40 - PharmacyApp.CommonLip.LogUtil System.Data.SqlClient.SqlException : Login failed for user ''.
+Data:
+  HelpLink.ProdName: Microsoft SQL Server
+  HelpLink.EvtSrc: MSSQLServer
+  HelpLink.EvtID: 18456
+  HelpLink.BaseHelpUrl: http://go.microsoft.com/fwlink
+  HelpLink.LinkId: 20476
+
+[DEBUG] 2020-03-30 17:34:40 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-30 17:38:24 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-30 17:38:30 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-30 17:38:30 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-30 17:38:30 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-30 17:38:31 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-30 17:38:31 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-30 17:39:01 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-30 17:39:01 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-30 17:40:55 - PharmacyApp.CommonLip.LogUtil Please find more information on this screen: 2020-03-30-05-40-55.jpeg
+[DEBUG] 2020-03-30 17:40:55 - PharmacyApp.CommonLip.LogUtil System.Data.SqlClient.SqlException : Login failed for user ''.
+Data:
+  HelpLink.ProdName: Microsoft SQL Server
+  HelpLink.EvtSrc: MSSQLServer
+  HelpLink.EvtID: 18456
+  HelpLink.BaseHelpUrl: http://go.microsoft.com/fwlink
+  HelpLink.LinkId: 20476
+
+[DEBUG] 2020-03-30 17:40:55 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-30 17:42:20 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-30 17:42:29 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-30 17:42:29 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-30 17:42:29 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-30 17:42:29 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-30 17:42:29 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-30 17:42:59 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-30 17:42:59 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-30 17:43:28 - PharmacyApp.CommonLip.LogUtil Please find more information on this screen: 2020-03-30-05-43-27.jpeg
+[DEBUG] 2020-03-30 17:43:28 - PharmacyApp.CommonLip.LogUtil System.Data.SqlClient.SqlException : Login failed for user ''.
+Data:
+  HelpLink.ProdName: Microsoft SQL Server
+  HelpLink.EvtSrc: MSSQLServer
+  HelpLink.EvtID: 18456
+  HelpLink.BaseHelpUrl: http://go.microsoft.com/fwlink
+  HelpLink.LinkId: 20476
+
+[DEBUG] 2020-03-30 17:43:28 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-30 17:44:14 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-30 17:44:22 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-30 17:44:22 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-30 17:44:22 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-30 18:13:05 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-30 18:22:40 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-30 18:22:49 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-30 18:22:49 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-30 18:22:49 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-30 18:24:35 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-30 18:31:19 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-30 18:31:25 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-30 18:31:25 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-30 18:31:25 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-30 18:33:50 - PharmacyApp.CommonLip.LogUtil Please find more information on this screen: 2020-03-30-06-33-50.jpeg
+[DEBUG] 2020-03-30 18:33:51 - PharmacyApp.CommonLip.LogUtil System.ArgumentException : An entry with the same key already exists.
+[DEBUG] 2020-03-30 18:33:51 - PharmacyApp.CommonLip.LogUtil Close Chrome browser

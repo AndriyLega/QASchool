@@ -1,0 +1,183 @@
+[DEBUG] 2020-03-04 12:29:40 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 12:29:50 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 12:29:50 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 12:29:50 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 12:29:50 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 12:29:50 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 12:48:48 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 12:48:54 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 12:48:54 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 12:48:54 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 12:48:54 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 12:48:54 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 12:49:15 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 12:49:15 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 12:49:15 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 12:49:33 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 12:50:04 - PharmacyApp.CommonLip.LogUtil Scrolled to the last column of the table
+[DEBUG] 2020-03-04 12:50:08 - PharmacyApp.CommonLip.LogUtil Scrolled to bottom of the page
+[DEBUG] 2020-03-04 12:50:39 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 12:53:21 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 12:53:28 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 12:53:28 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 12:53:28 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 12:53:28 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 12:53:28 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 12:53:51 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 12:53:52 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 12:53:52 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 13:05:06 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 13:05:13 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 13:05:13 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 13:05:13 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 13:05:13 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 13:05:13 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 13:05:38 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 13:05:38 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 13:05:38 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 13:05:57 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 13:06:03 - PharmacyApp.CommonLip.LogUtil Scrolled to the last column of the table
+[DEBUG] 2020-03-04 13:06:04 - PharmacyApp.CommonLip.LogUtil Scrolled to bottom of the page
+[DEBUG] 2020-03-04 13:06:06 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = d00e39bf-9632-4e3c-bd9d-0bdd25a1a9b0)
+[DEBUG] 2020-03-04 13:06:49 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = ec59dfda-c913-423d-bd9f-5465c0e9855d)
+[DEBUG] 2020-03-04 13:07:17 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 13:07:30 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 13:07:37 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 13:07:37 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 13:07:37 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 13:07:38 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 13:07:38 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 13:08:00 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 13:08:00 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 13:08:00 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 13:08:19 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 13:08:22 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = aeec1283-ee06-4719-9afb-2838894c2737)
+[DEBUG] 2020-03-04 13:08:50 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 13:09:04 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 13:09:10 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 13:09:10 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 13:09:10 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 13:09:10 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 13:09:10 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 13:09:33 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 13:09:33 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 13:09:33 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 13:09:52 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 13:10:09 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 038adf83-fd5b-425e-bd87-48d6d6e6ee1a)
+[DEBUG] 2020-03-04 13:14:54 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 13:22:59 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 13:23:05 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 13:23:05 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 13:23:05 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 13:23:06 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 13:23:06 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 13:23:26 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 13:23:26 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 13:23:26 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 13:23:45 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 13:24:00 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 9b6c635a-6248-4f4e-a540-714699d7f49e)
+[DEBUG] 2020-03-04 13:24:02 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 08f88238-4543-4cb7-8b6a-0d054623bd9e)
+[DEBUG] 2020-03-04 13:24:19 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 08f88238-4543-4cb7-8b6a-0d054623bd9e)
+[DEBUG] 2020-03-04 13:24:49 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 08f88238-4543-4cb7-8b6a-0d054623bd9e)
+[DEBUG] 2020-03-04 13:52:01 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 13:52:07 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 13:52:07 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 13:52:07 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 13:52:07 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 13:52:07 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 13:52:27 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 13:52:27 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 13:52:27 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 13:52:45 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 13:52:45 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 7c239945-d8a4-4761-af90-4f910e0dfb01)
+[DEBUG] 2020-03-04 13:52:45 - PharmacyApp.CommonLip.LogUtil Scrolled to the Photo Column
+[DEBUG] 2020-03-04 13:52:45 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 1ca59d10-66a8-4079-add1-04187cbea024)
+[DEBUG] 2020-03-04 13:52:45 - PharmacyApp.CommonLip.LogUtil Scrolled to the 15row
+[DEBUG] 2020-03-04 13:54:13 - PharmacyApp.CommonLip.LogUtil click on Manage button
+[DEBUG] 2020-03-04 13:54:13 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 13:57:44 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 13:57:50 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 13:57:50 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 13:57:50 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 13:57:50 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 13:57:50 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 13:58:16 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 13:58:16 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 13:58:16 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 13:58:16 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 14:00:47 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 14:01:01 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 14:01:07 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 14:01:07 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 14:01:07 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 14:01:07 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 14:01:07 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 14:01:27 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 14:01:27 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 14:01:27 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 14:01:46 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 14:01:46 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 711d2e3c-0114-45e7-8816-a22b22548d58)
+[DEBUG] 2020-03-04 14:01:46 - PharmacyApp.CommonLip.LogUtil Scrolled to the Photo Column
+[DEBUG] 2020-03-04 14:01:46 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = b3131320-dee3-4c77-83da-23be129354ae)
+[DEBUG] 2020-03-04 14:01:46 - PharmacyApp.CommonLip.LogUtil Scrolled to the 15row
+[DEBUG] 2020-03-04 14:03:44 - PharmacyApp.CommonLip.LogUtil click on Manage button
+[DEBUG] 2020-03-04 14:04:59 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 14:05:18 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 14:05:24 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 14:05:24 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 14:05:24 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 14:05:25 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 14:05:25 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 14:05:45 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 14:05:45 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 14:05:45 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 14:06:03 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 14:06:03 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 974df2b9-f441-4da3-b01f-332d7c8353ff)
+[DEBUG] 2020-03-04 14:06:03 - PharmacyApp.CommonLip.LogUtil Scrolled to the Photo Column
+[DEBUG] 2020-03-04 14:06:03 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = dfb53a1f-1df1-42d1-8c2e-7bd3aa7d99be)
+[DEBUG] 2020-03-04 14:06:03 - PharmacyApp.CommonLip.LogUtil Scrolled to the 15row
+[DEBUG] 2020-03-04 14:07:12 - PharmacyApp.CommonLip.LogUtil click on Manage button
+[DEBUG] 2020-03-04 14:09:18 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 14:09:46 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 14:09:52 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 14:09:52 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 14:09:52 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 14:09:52 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 14:09:52 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 14:10:11 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 14:10:11 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 14:10:11 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 14:10:27 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 14:10:27 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 0f95d86b-dfea-4cc5-a40b-6571643a8fff)
+[DEBUG] 2020-03-04 14:10:27 - PharmacyApp.CommonLip.LogUtil Scrolled to the Photo Column
+[DEBUG] 2020-03-04 14:10:27 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = b54ff2fa-1399-490f-9731-8c1d6aaab95c)
+[DEBUG] 2020-03-04 14:10:27 - PharmacyApp.CommonLip.LogUtil Scrolled to the 15row
+[DEBUG] 2020-03-04 14:26:15 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 14:26:22 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 14:26:22 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 14:26:22 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 14:26:22 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 14:26:23 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 14:26:43 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 14:26:43 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 14:26:43 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 14:27:01 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 14:27:01 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = da817b38-ccb1-4c97-94d8-df962b46863a)
+[DEBUG] 2020-03-04 14:27:01 - PharmacyApp.CommonLip.LogUtil Scrolled to the Photo Column
+[DEBUG] 2020-03-04 14:27:02 - PharmacyApp.CommonLip.LogUtil click on Manage button
+[DEBUG] 2020-03-04 14:27:33 - PharmacyApp.CommonLip.LogUtil Selected option by bella@gmail.comin Pharmacy User dropdown
+[DEBUG] 2020-03-04 14:29:22 - PharmacyApp.CommonLip.LogUtil Selected option by 021a2f11-209a-4fc5-9278-37b54f2f281bin Pharmacy User dropdown
+[DEBUG] 2020-03-04 14:29:39 - PharmacyApp.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-04 14:39:52 - PharmacyApp.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-04 14:39:59 - PharmacyApp.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-04 14:39:59 - PharmacyApp.CommonLip.LogUtil Navigating to http://fortesting.info/
+[DEBUG] 2020-03-04 14:39:59 - PharmacyApp.CommonLip.LogUtil **********Starting execution a new test**********
+[DEBUG] 2020-03-04 14:39:59 - PharmacyApp.CommonLip.LogUtil Filled in email field with data:lega1@mailinator.com
+[DEBUG] 2020-03-04 14:39:59 - PharmacyApp.CommonLip.LogUtil Filled in password field with data:password
+[DEBUG] 2020-03-04 14:40:19 - PharmacyApp.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-04 14:40:19 - PharmacyApp.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-04 14:40:20 - PharmacyApp.CommonLip.LogUtil click on pharmacy dropDown
+[DEBUG] 2020-03-04 14:40:38 - PharmacyApp.CommonLip.LogUtil Clicked on Manag Pahrmacies option
+[DEBUG] 2020-03-04 14:40:38 - PharmacyApp.CommonLip.LogUtil Scrolled to the element Element (id = 49028ebb-21ea-41fe-b6a4-00323985ae52)
+[DEBUG] 2020-03-04 14:40:38 - PharmacyApp.CommonLip.LogUtil Scrolled to the Photo Column
+[DEBUG] 2020-03-04 14:40:38 - PharmacyApp.CommonLip.LogUtil click on Manage button

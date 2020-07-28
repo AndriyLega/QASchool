@@ -1,0 +1,15 @@
+{
+  //List of input data
+  "ValidPassword": "password",
+  "ValidEmail": "lega1@mailinator.com",
+  "InvalidEmail": "lega1mailinator.com",
+  "InvalidPassword": "pass",
+
+  //List of warning messages
+  "EmptyEmailWarningMessage": "The Email field is required.",
+  "EmptyPasswordWarningMessage": "The Password field is required.",
+  "InvalidEmailWarningMessage": "The Email field is not a valid e-mail address.",
+  "IncorrectPasswordWarningMessage": "Invalid login attempt.",
+  "SuccessfulLogInMessage": "Successfully logged in"
+
+}
