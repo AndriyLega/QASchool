@@ -55,7 +55,7 @@ namespace PharmacyApp.PageObjects
         /// </summary>
         public bool IsEmailLinkPresent()
         {
-            LogUtil.WriteDebug("Check if element present");
+            LogUtil.WriteDebug("Check if element present on the page");
             return commonMethods.IsElementPresent(By.XPath(XpathUserLink));
         }
     }
